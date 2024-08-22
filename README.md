@@ -4,9 +4,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Ashishtandi2003/myLeetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Ashishtandi2003/myLeetcode/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
