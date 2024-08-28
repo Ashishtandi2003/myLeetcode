@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0283-move-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/Ashishtandi2003/myLeetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
