@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0283-move-zeroes) |
+| [0575-distribute-candies](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0575-distribute-candies) |
 | [1319-unique-number-of-occurrences](https://github.com/Ashishtandi2003/myLeetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0001-two-sum) |
+| [0575-distribute-candies](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0575-distribute-candies) |
 | [1319-unique-number-of-occurrences](https://github.com/Ashishtandi2003/myLeetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Linked List
 |  |
