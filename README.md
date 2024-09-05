@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0012-integer-to-roman) |
 | [0575-distribute-candies](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0575-distribute-candies) |
 | [1319-unique-number-of-occurrences](https://github.com/Ashishtandi2003/myLeetcode/tree/master/1319-unique-number-of-occurrences) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Ashishtandi2003/myLeetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
@@ -27,9 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0012-integer-to-roman) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Ashishtandi2003/myLeetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 ## Trie
 |  |
 | ------- |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Ashishtandi2003/myLeetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Ashishtandi2003/myLeetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
